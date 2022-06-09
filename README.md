@@ -28,3 +28,7 @@ To decrypt the files:
 ./bashsomware dekey
 
 dekey: The key used to encrypt the files with aescrypt.
+
+To revert the directory 'testdir' back to its original state:
+
+./reverttestdir.sh
