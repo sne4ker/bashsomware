@@ -1,3 +1,5 @@
+# DO NOT RUN THIS AT ITS CURRENT STATE. THIS IS A WORK IN PROGRESS, THERE IS NO BUILT-IN WAY TO DECRYPT ENCRYPTED FILES AGAIN YET!
+
 # bashsomware
 A simple POC ransomware written in bash, using aescrypt and gpg.
 
