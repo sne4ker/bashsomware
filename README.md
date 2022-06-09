@@ -25,6 +25,6 @@ To encrypt the files:
 ./bashsomware
 
 To decrypt the files:
-./bashsomware <key>
+./bashsomware dekey
 
-<key>: The key used to encrypt the files with aescrypt.
+dekey: The key used to encrypt the files with aescrypt.
