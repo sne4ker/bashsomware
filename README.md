@@ -3,7 +3,9 @@ A simple POC ransomware written in bash, using aescrypt and gpg.
 
 I DO NOT hold ANY responsability concerning what this script is being used.
 
-If you don't understand what exactly this script does, first read the commented version (bashsomware_comments.sh)
+If you don't understand what exactly this script does don't run it.
+
+I won't be held liable for any harm you do to your own machine/s or machine/s of others.
 
 Requirements:
 
