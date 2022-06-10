@@ -44,6 +44,7 @@ then
 			fi
 		fi
 	done
+	rm -f ".out"
 exit 0
 fi
 
