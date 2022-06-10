@@ -1,7 +1,7 @@
 # bashsomware
 A simple POC ransomware written in bash, using aescrypt and gpg.
 
-I DO NOT hold ANY responsability concerning for what this script is being used.
+I DO NOT hold ANY responsability concerning the usage of this script.
 
 If you don't understand what exactly this script does, DO NOT run it.
 
